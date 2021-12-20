@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Find me on Tableau Public: https://public.tableau.com/app/profile/jerry6350
+
 <!--
 **jerryadaji/jerryadaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
